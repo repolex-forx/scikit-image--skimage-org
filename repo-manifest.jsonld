@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/scikit-image/skimage-org",
+  "@type": "gh:Repository",
+  "gh:name": "skimage-org",
+  "gh:owner": "scikit-image",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/scikit-image/skimage-org/commit/fc1307b3c6b8f922d27ba468fee45f25bdac3248",
+      "git:hexsha": "fc1307b3c6b8f922d27ba468fee45f25bdac3248",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}

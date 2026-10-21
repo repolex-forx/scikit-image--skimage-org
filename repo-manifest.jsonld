@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-image/skimage-org/commit/fc1307b3c6b8f922d27ba468fee45f25bdac3248",
       "git:hexsha": "fc1307b3c6b8f922d27ba468fee45f25bdac3248",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
